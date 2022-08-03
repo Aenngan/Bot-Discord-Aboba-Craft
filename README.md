@@ -6,3 +6,9 @@ I am from Russian
 version 1.1
 тепереь место $info и т.д надо писать $sudo
 добавлена комманда help как надо писать $sudo help
+
+
+как изменить токен ![изображение](https://user-images.githubusercontent.com/78636688/182658250-766f76f3-2e6d-479c-a149-29bb49f5e1db.png)
+заходим в data ![изображение](https://user-images.githubusercontent.com/78636688/182658404-cb1b61a3-a09e-4810-b57b-4994276a8b4a.png)
+и вот наш токен в token . txt![изображение](https://user-images.githubusercontent.com/78636688/182658458-082855ea-9b73-4e17-a053-5ca64f13a5ea.png)
+заходим и вставляем свой токен
