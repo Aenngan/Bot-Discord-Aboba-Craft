@@ -4,8 +4,7 @@ I am from Russian
 он работает через $ пример $info
 Нужно node.js а что бы редактировать надо discord bot builder
 version 1.1
-тепереь место $info и т.д надо писать $sudo
-добавлена комманда help как надо писать $sudo help
+добавлена комманда help как надо писать $help
 
 
 как изменить токен ![изображение](https://user-images.githubusercontent.com/78636688/182658250-766f76f3-2e6d-479c-a149-29bb49f5e1db.png)
